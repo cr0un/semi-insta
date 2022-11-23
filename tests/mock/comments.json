@@ -1,0 +1,20 @@
+[
+  {
+    "post_id": 1,
+    "commenter_name": "test_user1",
+    "comment": "Тестовый пост1",
+    "pk": 1
+  },
+  {
+    "post_id": 1,
+    "commenter_name": "test_user2",
+    "comment": "Тестовый пост 2",
+    "pk": 2
+  },
+  {
+    "post_id": 2,
+    "commenter_name": "test_user3",
+    "comment": "Тестовый пост 3",
+    "pk": 3
+  }
+]
